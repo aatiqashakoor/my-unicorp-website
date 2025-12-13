@@ -62,60 +62,47 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     background-color:rgb(233, 177, 110);
     color:rgb(117, 26, 26)
 }
-.about{
-    background-color:white
+.aboutbackground{
+    background-color:white;
     width: 100%;
     height: 400px;
 }
-.About_div{
+.background_div{
 background-color: rgba(239, 219, 181, 0.963);
     width: 100%;
     height: 1000px;
     display: inline-flex;
-    margin-top: 100px;
-    margin-left: 30px;
+    margin-left: 20px;
 
 }
 
-.abt11{
+.abt1-2{
  width: 40%;
 height: 100px;
 margin-top: 80px;
 margin-left: 50px;
 margin-bottom: 50px; 
 padding-left: 30px;
-}
-.abt12{
-    width: 60%;
-    height: 100px;
-    margin-top: 80px;
- margin-left: 50px;   
-margin bottom: 50px;
-padding-left:30px;
-}
 
+}
+.abt3-4{
+width: 60%;
+ height: 100px;
+}
 .abt11-box1{
-    margin: 0px 90px 0px 0px;
-    margin-top: 50px;
-    margin-left: 30px;
-
+    padding-left: 10px;
 }
-.abt12-box1
-{
-margin-left: 30px;
-margin
+.abt12-box1{
+    padding-left: 15px;
 }
-
-.abt13-box2
-{
-margin: 30px 0px 15px 20px;
-
-
-
-
+.abt13-box2{
+    padding-left: 15px;
+}
+.abt14-box2{
+    padding-left: 12px;
+    padding-top: 10px;
 }
 
 </div>
-.about2
 </div>
 
